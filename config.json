@@ -1,0 +1,10 @@
+{
+
+    "token": "token ici",
+    "ipAddress": "ip mc",
+    "port": "port du serv ou bungee",
+    "playersChannel": "id channel vocal player",
+    "statusChannel": "id channel vocal on/off",
+    "updateInterval": "3min",
+    "prefix": "!"
+}
